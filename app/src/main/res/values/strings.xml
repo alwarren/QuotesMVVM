@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes DB</string>
+    <string name="quotable_quotes">Quotable Quotes</string>
+    <string name="change_quote">Change Quote</string>
+</resources>
